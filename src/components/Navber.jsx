@@ -48,7 +48,7 @@ const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
               <span className="sr-only">Your Company</span>
               <img
                 className="h-8 w-auto"
-                src="src\assets\logo-up-pro.png"
+                src="https://github.com/Yeasin-Hossen-Arman/up-pro/blob/main/src/assets/logo-up-pro.png"
                 alt=""
               />
             </a>
